@@ -9,7 +9,7 @@ namespace ConsoleApp1
             // This line is add inside GitHub
             // Code is added in VS
 
-            // Code to call feature 1
+            // Code to call feature once
             Console.WriteLine("Hello World!");
             Console.ReadLine();
         }
